@@ -1,0 +1,41 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    font-family: 'Times New Roman', Times, serif, Helvetica, sans-serif;
+}
+
+body{
+    background-color: deepskyblue;
+}
+
+#container{
+    width: 80%;
+    margin: 0px;
+    box-shadow: 0px 0px 10px black;
+    background: white;
+}
+
+#header{
+    height: 140px;
+    background: #f0f0f0;
+}
+
+#logo{
+    padding: 20px;
+    margin-left: 20px;
+    float: right;
+}
+
+#logo img{
+    float: right;
+    height: 300px;
+}
+
+#logo a{
+    float: right;
+    font-size: 40px;
+    letter-spacing: 40px;
+    font-family: 'Times New Roman', Times, serif;
+    text-transform: uppercase;
+    color: crimson;
+}
